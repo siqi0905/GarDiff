@@ -5,7 +5,7 @@ pip install -r requirements.txt
 ```
 ## Dataset
 You can download the VITON-HD dataset from [here](https://github.com/xiezhy6/GP-VTON) <br>
-For inference, the following dataset structure is required: <br>\
+For inference, the following dataset structure is required: <br>
 ```
 test
 |-- image
@@ -19,3 +19,5 @@ test
 cd src
 sh inf_gar.sh
 ```
+## Acknowledgement
+We borrow some codes from [LaDI-VTON](https://github.com/miccunifi/ladi-vton). We also thank [GP-VTON](https://github.com/xiezhy6/GP-VTON), our warping module depends on it.
