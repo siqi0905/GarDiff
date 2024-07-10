@@ -1,3 +1,5 @@
+# GarDiff
+This repository is the official implementation of GarDiff
 ## Installation
 Create a conda environment and install dependencies:
 ```
