@@ -22,4 +22,4 @@ cd src
 sh inf_gar.sh
 ```
 ## Acknowledgement
-We borrow some codes from [LaDI-VTON](https://github.com/miccunifi/ladi-vton). We also thank [GP-VTON](https://github.com/xiezhy6/GP-VTON), our warping module depends on it.
+Thanks the contribution of [LaDI-VTON](https://github.com/miccunifi/ladi-vton) and [GP-VTON](https://github.com/xiezhy6/GP-VTON).
