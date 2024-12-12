@@ -19,7 +19,6 @@ test
 ## Inference
 Please download the pre-trained model from [Google Link](https://drive.google.com/file/d/1xH_DUB0qC5UW2WuNIvKFCWEDyhsSY6Cs/view?usp=drive_link)
 ```
-cd src
 sh inf_gar.sh
 ```
 ## Acknowledgement
