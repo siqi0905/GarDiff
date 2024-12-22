@@ -1,5 +1,24 @@
-# GarDiff
-This repository is the official implementation of GarDiff
+
+
+<h1>Improving Virtual Try-On with Garment-focused Diffusion Models</h1>
+<div>
+    <a>Siqi Wan</a><sup>1</sup>,
+    <a>Yehao Li</a><sup>2</sup>,
+    <a>Jingwen Chen</a><sup>2</sup>,
+    <a>Yingwei Pan</a><sup>2</sup>,
+    <a>Ting Yao</a><sup>2</sup>,
+    <a>Yang Cao</a><sup>1</sup>
+    <a>Tao Mei</a><sup>2</sup>
+</div>
+<div>
+    <sup>1</sup>University of Science and Technology of China; <sup>2</sup>HiDream.ai Inc
+</div>
+</br>
+This is the official repository for the [Paper](https://arxiv.org/abs/2409.08258) "Improving Virtual Try-On with Garment-focused Diffusion Models"
+
+## Overview
+
+
 ## Installation
 Create a conda environment and install dependencies:
 ```
